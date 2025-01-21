@@ -1,0 +1,8 @@
+<!ELEMENT family (parent+, child)>
+  <!ELEMENT parent (hobby, gender, age , name)>
+  <!ELEMENT child (gender, position, hobby, age, name)>
+  <!ELEMENT hobby  (#PCDATA)>
+  <!ELEMENT gender (#PCDATA)>
+  <!ELEMENT age  (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT position (#PCDATA)>

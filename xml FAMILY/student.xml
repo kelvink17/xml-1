@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE family SYSTEM "student.dtd"> -->
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<family>  
+   <parent>
+     <hobby>cleaning</hobby>
+     <gender>female</gender>
+     <age>32</age>
+     <name>mum</name>
+   </parent>
+   <parent>
+     <hobby>reading</hobby>
+     <gender>male</gender>
+     <age>35</age>
+     <name>dad</name>
+   </parent>
+   <child> 
+    <gender>male</gender>
+    <position>1</position>
+    <hobby>sleeping</hobby>
+    <age>13</age>
+    <name>kid boy</name>
+   </child>
+</family>

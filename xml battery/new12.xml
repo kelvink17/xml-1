@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE group SYSTEM "new12.dtd">
+<group>
+   <family>
+      <sex>male</sex> 
+      <height>6ft</height> 
+      <skin>dark</skin>
+      <species>homo sapiens</species>
+      <name>stanley</name>
+   </family>
+   <family>
+      <sex> male</sex> 
+      <height>4ft </height>
+      <skin>dark</skin>
+      <species>canis lupus familiaris</species>
+      <name>mofe</name> 
+     </family>
+   <family> 
+     <sex> female </sex>
+      <height>6ft </height>
+       <skin>light </skin> 
+       <species>homo sapiens</species> 
+       <name>eri</name>
+     </family>
+   <family> 
+     <sex>male </sex>
+      <height>6ft </height> 
+      <skin>dark </skin>
+      <species>homo sapien</species>
+      <name>Mustapha</name>
+    </family>
+   <family> 
+     <sex>male </sex> 
+     <height> 7ft </height>
+     <skin> dark </skin> 
+     <species> homo sapiens </species>
+     <name>kelvink</name>
+    </family>
+</group>

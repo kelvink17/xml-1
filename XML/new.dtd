@@ -1,0 +1,5 @@
+<!ELEMENT class (student)*>
+ <!ELEMENT student (name,pet, color)>
+  <!ELEMENT name (#PCDATA)>
+   <!ELEMENT pet (name, color)>
+    <!ELEMENT color (#PCDATA)>

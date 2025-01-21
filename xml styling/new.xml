@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!-- <!DOCTYPE group SYSTEM "new.dtd"> -->
+<group>
+   <student>
+      <name>Stanley</name>
+      <sex>male</sex>
+      <course>json</course>
+   </student>
+   <student>
+      <name>Stanley</name>
+      <sex>male</sex>
+      <course>json</course>
+   </student>
+   <student>
+      <name>Stanley</name>
+      <sex>male</sex>
+      <course>json</course>
+   </student>
+</group>

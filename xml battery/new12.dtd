@@ -1,0 +1,7 @@
+<!ELEMENT group (family)*>
+    <!ELEMENT family (sex,height,skin,species,name)>
+    <!ELEMENT sex (#PCDATA)>
+    <!ELEMENT height (#PCDATA)>
+    <!ELEMENT skin (#PCDATA)>
+    <!ELEMENT species (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>

@@ -1,0 +1,14 @@
+<!ELEMENT bookstore (book+)>
+<!ELEMENT book (author)>
+<!ELEMENT author (#PCDATA)>
+
+<!ATTLIST book 
+    genre CDATA #IMPLIED
+    title CDATA #IMPLIED
+    pddate CDATA #IMPLIED>
+
+<!ATTLIST author
+    gender (male|female) "male"
+    title CDATA #IMPLIED
+    active (yes|no) "no"
+    pbook CDATA #IMPLIED>

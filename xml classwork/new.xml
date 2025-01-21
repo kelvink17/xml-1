@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM  "new.dtd">
+<bookstore>
+
+     <book genre='comedy' title="Mofe the idiot" pddate="jan/4/2025" > 
+       <author  gender="male" title="m" active="no" pbook="10">
+            
+       </author>
+     </book>
+     
+     <book genre='action' title="furios6" pddate="march/5/2022" > 
+         <author  gender="male" title="m" active="yes" pbook="102">
+              
+         </author>
+     </book>
+     
+     <book genre='Romance' title="romeo and juliet" pddate="feb/25/2000" > 
+        <author  gender="female" title="f" active="yes" pbook="19">
+             
+        </author>
+     </book>
+     
+     <book genre='sci/fi' title="fantasy world" pddate="april/22/2012" > 
+         <author  gender="male" title="m" active="yes" pbook="30">
+              
+         </author>
+     </book>
+</bookstore>

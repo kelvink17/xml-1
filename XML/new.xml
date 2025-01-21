@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "new.dtd">
+<!-- <!DOCTYPE class 
+[
+
+
+   <!ELEMENT class (student)*>
+   <!ELEMENT student (#PCDATA)>
+]> -->
+<class> 
+   <student >
+   <name>stanley</name>
+   <pet>
+     <name>bingo</name>
+     <color>white</color>
+   </pet>
+   <color>dark</color>
+   
+   
+   </student>
+
+</class>
+
+<!-- <group>
+ <student>
+  <name>stanley</name>
+  <sex>male</sex>
+  <course>Json</course>
+ </student>
+</group> -->
+<!-- 
+<group>
+   <student>
+      <name>Ojukwu</name>
+      <gender>male</gender>
+      <height>5'11</height>
+      <skin>Dark</skin>
+      <course>Json</course>
+      <pc>hp</pc>
+   </student>
+   <student>
+      <name>Mofe</name>
+      <gender>male</gender>
+      <height>5'2</height>
+      <skin>light</skin>
+      <course>Json</course>
+      <pc>dell</pc>
+   </student>
+   <student>
+      <name>steven</name>
+      <gender>male</gender>
+      <height>6'10</height>
+      <skin>Dark</skin>
+      <course>Xml</course>
+      <pc>lenovo</pc>
+   </student>
+   <student>
+      <name>steven</name>
+      <gender>male</gender>
+      <height>6'10</height>
+      <skin>Dark</skin>
+      <course>Xml</course>
+      <pc>lenovo</pc>
+   </student>
+    <student>
+      <name>eri</name>
+      <gender>female</gender>
+      <height>6'4</height>
+      <skin>light</skin>
+      <course>Xml/json</course>
+      <pc>dell</pc>
+   </student>
+    <student>
+      <name>kelvink</name>
+      <gender>male</gender>
+      <height>7'10</height>
+      <skin>Dark</skin>
+      <course>Xml/json</course>
+      <pc>hp</pc>
+   </student>
+   
+   
+</group> -->
