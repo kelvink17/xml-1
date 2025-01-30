@@ -1,0 +1,41 @@
+body {
+  color: white;
+  background-color: rgb(49, 2, 2);
+}
+
+#comments-container {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.comment {
+  /* border: 2px solid red; */
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4),
+    -3px -3px 5px rgba(255, 255, 255, 0.4);
+  transition: height 2s;
+}
+.comment:hover {
+  height: 200px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+p {
+  width: 250px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  transition: width 2s;
+}
+img:hover {
+  width: 250px;
+}
